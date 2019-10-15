@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/andycheung0689/MyTestProject/_apis/build/status/apcheung.pipelines-java-1?branchName=master)](https://dev.azure.com/andycheung0689/MyTestProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
